@@ -1,2 +1,4 @@
 donkey
-dalphin
+dolphin
+puppy
+samsung
